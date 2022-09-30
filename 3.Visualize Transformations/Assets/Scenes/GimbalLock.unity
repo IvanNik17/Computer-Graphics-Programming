@@ -790,7 +790,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isQuat: 0
   startRot: 0
-  startingAngle: {x: 90, y: 0, z: 0}
+  startingAngle: {x: 0, y: 0, z: 0}
   rotationPerAngle: {x: 0, y: 90, z: 0}
 --- !u!1 &1133447785
 GameObject:
